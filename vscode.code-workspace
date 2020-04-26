@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/home/rmrfslashbin/.local/share/virtualenvs/guess-the-weight-gtk-63v5J4QE/bin/python3"
+	}
 }
